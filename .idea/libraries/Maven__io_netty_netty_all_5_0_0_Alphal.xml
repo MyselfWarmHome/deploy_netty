@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.netty:netty-all:5.0.0.Alphal">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/5.0.0.Alphal/netty-all-5.0.0.Alphal.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/5.0.0.Alphal/netty-all-5.0.0.Alphal-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/5.0.0.Alphal/netty-all-5.0.0.Alphal-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
